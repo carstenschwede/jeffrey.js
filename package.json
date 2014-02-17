@@ -1,0 +1,18 @@
+{
+  "name": "Jeffrey",
+  "version": "0.0.0",
+  "description": "ERROR: No README data found!",
+  "main": "jeffrey.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "async": "~0.2.9",
+    "optimist": "~0.6.0",
+    "request": "~2.27.0",
+    "wolfram-alpha": "~0.1.1"
+  },
+  "devDependencies": {}
+}

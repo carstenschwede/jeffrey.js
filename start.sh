@@ -1,0 +1,1 @@
+node jeffrey.js -t /var/log -w YOUR_WOLFRAM_ALPHA_KEY -l en
